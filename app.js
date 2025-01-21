@@ -1,5 +1,6 @@
 /*
 Prueba
+Prueba2
 */
 
 let numeroSecreto = 0;
