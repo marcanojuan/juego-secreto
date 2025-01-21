@@ -1,6 +1,7 @@
 /*
-Prueba
-Prueba2
+Juego del número secreto
+Ver.: 2.0
+Lógica de programación 2: proyecto aulas - Alura Latam
 */
 
 let numeroSecreto = 0;
